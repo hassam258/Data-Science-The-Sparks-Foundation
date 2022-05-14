@@ -20,3 +20,4 @@ Data can be found at http://bit.ly/w-data
 You can use R, Python, SAS Enterprise Miner or any other tool.
 
 What will be predicted score if a student studies for 9.25 hrs/ day?
+youtube :https://youtu.be/u4zJav-qIrQ
